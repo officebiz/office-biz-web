@@ -4,4 +4,4 @@ Source of https://office.biz/
 
 ### Copyright
 
-&copy; 2021 [office.biz](https://office.biz)
+&copy; 2025 [office.biz](https://office.biz)
